@@ -1,0 +1,98 @@
+h1{
+    color: black;
+    font-family: "Marriweather";
+    font-size: 290%;
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    width: 500px;
+    position: relative;
+    left: 710px;
+}
+#box2{
+    width: 500px;
+    position: relative;
+    left: 1300px;
+    font-size: 23px;
+    font-weight: bolder;
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    text-align: center;
+    text-decoration: underline;
+    top: 115px;
+}
+#pn2{
+    position: relative;
+    left:280px;
+    font-size: 25px;
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    width:560px;
+    bottom:200px;
+}
+#statue{
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    position: relative;
+    height: 300px;
+    width: 310px;
+    bottom:170px;
+    font-size: 28px;
+    left:30px;
+}
+#park{
+    background:linear-gradient(to left,rgb(155, 210, 231), rgb(255, 255, 255));
+    position: relative;
+    height: 300px;
+    width: 310px;
+    left:395px;
+    bottom: 503px;
+    font-size: 28px;
+}
+#square{
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    position: relative;
+    font-size: 28px;
+    height: 300px;
+    width: 310px;
+    left: 760px;
+    bottom:835px;
+}
+#ny{
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    position: relative;
+    height: 250px;
+    width: 500px;
+    left: 1230px;
+    top: 188px;
+    font-size: 30px;
+}
+#pn1{
+    background:linear-gradient(to right,rgb(155, 210, 231), rgb(255, 255, 255));
+    position: relative;
+    left: 1290px;
+    top: 157px;
+    height: 50px;
+    width: 365px;
+    font-size: 26px;
+}
+#liberty{
+    width:110px;
+    height: 400px;
+    position: relative;
+    bottom: 836px;
+    left: 30px;
+}
+#parkic{
+    position: relative;
+    left: 395px;
+    bottom: 1707px;
+}
+#timesquare{
+    position: relative;
+    left: 760px;
+    bottom: 1235px;
+}
+body{
+    background-image: url(noviyork.jpg);
+    background-repeat: no-repeat;
+    background-position-y: top;
+    overflow-x: hidden;
+    background-size: 135%;
+    height: 1400px;
+}
